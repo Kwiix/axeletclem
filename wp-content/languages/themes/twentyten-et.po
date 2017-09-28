@@ -1,0 +1,384 @@
+# Translation of Twenty Ten in Estonian
+# This file is distributed under the same license as the Twenty Ten package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2015-07-27 22:21:27+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/1.0-alpha-1100\n"
+"Project-Id-Version: Twenty Ten\n"
+
+#. Author URI of the plugin/theme
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#. Template Name of the plugin/theme
+msgid "One column, no sidebar"
+msgstr "Üks veerg, ilma küljepaanita"
+
+#. Author of the plugin/theme
+msgid "the WordPress team"
+msgstr "WordPressi meeskond"
+
+#. Description of the plugin/theme
+msgid "The 2010 theme for WordPress is stylish, customizable, simple, and readable -- make it yours with a custom menu, header image, and background. Twenty Ten supports six widgetized areas (two in the sidebar, four in the footer) and featured images (thumbnails for gallery posts and custom header images for posts and pages). It includes stylesheets for print and the admin Visual Editor, special styles for posts in the \"Asides\" and \"Gallery\" categories, and has an optional one-column page template that removes the sidebar."
+msgstr "Aasta 2010 WordPressi teema on stiilne, kohandatav, lihtne ja kergesti loetav - muuda see endale sobivaks kasutades kohandatud menüüd, päisepilti ja tausta. Twenty Ten toetab kuut mooduliala (kaks küljepaanil, neli jaluses) ja tunnuspilte. Kaasa tulevad stiilid printimiseks ja visuaalses redaktoris kasutamiseks, spetsiaalsed postituse-stiilid \"Küljepaani\" ja \"Galerii\" kategooriate jaoks. Olemas on ka üheveeruline lehepõhi ilma küljepaanita."
+
+#. Theme URI of the plugin/theme
+msgid "https://wordpress.org/themes/twentyten/"
+msgstr "https://wordpress.org/themes/twentyten/"
+
+#. Theme Name of the plugin/theme
+msgid "Twenty Ten"
+msgstr "Twenty Ten"
+
+#: tag.php:16
+msgid "Tag Archives: %s"
+msgstr "Sildiarhiiv: %s"
+
+#: sidebar.php:35
+msgid "Meta"
+msgstr "Meta"
+
+#: sidebar.php:28
+msgid "Archives"
+msgstr "Arhiiv"
+
+#: search.php:29
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr "Vabandust, aga su otsing ei andnud tulemusi. Proovi teisi otsisõnu."
+
+#: search.php:27
+msgid "Nothing Found"
+msgstr "Midagi ei leitud"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Otsitulemused: %s"
+
+#: loop.php:161
+msgid "<span class=\"%1$s\">Tagged</span> %2$s"
+msgstr "<span class=\"%1$s\">Sildid:</span> %2$s"
+
+#: loop.php:152
+msgid "<span class=\"%1$s\">Posted in</span> %2$s"
+msgstr "<span class=\"%1$s\">Rubriigid:</span> %2$s"
+
+#: loop.php:107
+msgctxt "asides category slug"
+msgid "asides"
+msgstr "lisaks"
+
+#: loop.php:100 loop.php:123 loop.php:165
+msgid "% Comments"
+msgstr "% kommentaari"
+
+#: loop.php:100 loop.php:123 loop.php:165
+msgid "1 Comment"
+msgstr "1 kommentaar"
+
+#: loop.php:100 loop.php:123 loop.php:165
+msgid "Leave a comment"
+msgstr "Kommenteeri"
+
+#: loop.php:97
+msgid "View posts in the Gallery category"
+msgstr "Vaata galeriirubriiki kuuluvaid postitusi"
+
+#: loop.php:94 loop.php:97
+msgid "More Galleries"
+msgstr "Veel galeriisid"
+
+#: loop.php:94
+msgid "View Galleries"
+msgstr "Vaata galeriisid"
+
+#: loop.php:84
+msgid "Permalink to %s"
+msgstr "Püsiviide: %s"
+
+#: loop.php:83
+msgid "This gallery contains <a %1$s>%2$s photo</a>."
+msgid_plural "This gallery contains <a %1$s>%2$s photos</a>."
+msgstr[0] "Selles galeriis on <a %1$s>%2$s foto</a>."
+msgstr[1] "Selles galeriis on <a %1$s>%2$s fotot</a>."
+
+#: loop.php:62 loop.php:96
+msgctxt "gallery category slug"
+msgid "gallery"
+msgstr "galerii"
+
+#: loop.php:35
+msgid "Apologies, but no results were found for the requested archive. Perhaps searching will help find a related post."
+msgstr "Vabandust, kuid soovitud arhiivist otsitavat ei leitud. Ehk aitab otsing leida midagi ligilähedast."
+
+#: loop.php:26 loop.php:180
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Uuemad postitused <span class=\"meta-nav\">&rarr;</span>"
+
+#: loop.php:25 loop.php:179
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Vanemad postitused"
+
+#: loop-single.php:50
+msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Vaata postitusi (sorteeritud: %s) <span class=\"meta-nav\">&rarr;</span>"
+
+#: loop-single.php:22 loop-single.php:65
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: loop-single.php:21 loop-single.php:64
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr "&larr;"
+
+#: loop-attachment.php:120 loop-page.php:29 loop-single.php:34 loop.php:145
+msgid "Pages:"
+msgstr "Lehed:"
+
+#: loop-attachment.php:63 loop-attachment.php:126 loop-page.php:30
+#: loop-single.php:59 loop.php:101 loop.php:124 loop.php:166
+msgid "Edit"
+msgstr "Muuda"
+
+#: loop-attachment.php:56
+msgid "Link to full-size image"
+msgstr "Viide täissuuruses pildile"
+
+#: loop-attachment.php:53
+msgid "Full size is %s pixels"
+msgstr "Täissuurus on %s pikslit."
+
+#: loop-attachment.php:43
+msgid "<span class=\"%1$s\">Published</span> %2$s"
+msgstr "<span class=\"%1$s\">Avaldatud</span> %2$s"
+
+#: loop-attachment.php:32
+msgid "<span class=\"%1$s\">By</span> %2$s"
+msgstr "<span class=\"%1$s\">By</span> %2$s"
+
+#. translators: %s - title of parent post
+#: loop-attachment.php:23
+msgid "<span class=\"meta-nav\">&larr;</span> %s"
+msgstr "<span class=\"meta-nav\">&larr;</span> %s"
+
+#: loop-attachment.php:21
+msgid "Return to %s"
+msgstr "Tagasi %s-le"
+
+#: header.php:105
+msgid "Skip to content"
+msgstr "Liigu sisu juurde"
+
+#: header.php:33
+msgid "Page %s"
+msgstr "Leht %s"
+
+#: functions.php:544
+msgid "Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "Salvesta <a href=\"%3$s\" title=\"%4$s püsiviide\" rel=\"bookmark\">püsiviide</a> oma järjehoidjasse."
+
+#: functions.php:542
+msgid "This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "Rubriigid: %1$s. Salvesta <a href=\"%3$s\" title=\"%4$s püsiviide\" rel=\"bookmark\">püsiviide</a> oma järjehoidjasse."
+
+#: functions.php:540
+msgid "This entry was posted in %1$s and tagged %2$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "Rubriigid: %1$s, sildid:   %2$s. Salvesta <a href=\"%3$s\" title=\"%4$s püsiviide\" rel=\"bookmark\">püsiviide</a> oma järjehoidjasse."
+
+#: functions.php:523 loop-attachment.php:36
+msgid "View all posts by %s"
+msgstr "Vaata autori %s postitusi"
+
+#: functions.php:514
+msgid "<span class=\"%1$s\">Posted on</span> %2$s <span class=\"meta-sep\">by</span> %3$s"
+msgstr "<span class=\"meta-sep\">%3$s</span>, <span class=\"%1$s\">%2$s</span>"
+
+#: functions.php:478
+msgid "Fourth Footer Widget Area"
+msgstr "Neljas mooduliala jaluses"
+
+#: functions.php:467
+msgid "Third Footer Widget Area"
+msgstr "Kolmas mooduliala jaluses"
+
+#: functions.php:456
+msgid "Second Footer Widget Area"
+msgstr "Teine mooduliala jaluses"
+
+#: functions.php:447 functions.php:458 functions.php:469 functions.php:480
+msgid "An optional widget area for your site footer."
+msgstr "Valikuline mooduliala sinu saidi jaluses."
+
+#: functions.php:445
+msgid "First Footer Widget Area"
+msgstr "Esimene mooduliala jaluses"
+
+#: functions.php:436
+msgid "An optional secondary widget area, displays below the primary widget area in your sidebar."
+msgstr "Valikuline teine mooduliala, kuvatakse küljepaanil peamise mooduliala all."
+
+#: functions.php:434
+msgid "Secondary Widget Area"
+msgstr "Teisene mooduliala"
+
+#: functions.php:425
+msgid "Add widgets here to appear in your sidebar."
+msgstr "Lisa siia moodulid mida soovid näha küljepaanil."
+
+#: functions.php:423
+msgid "Primary Widget Area"
+msgstr "Esmane mooduliala"
+
+#: functions.php:403
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: functions.php:386 functions.php:403
+msgid "(Edit)"
+msgstr "(Muuda)"
+
+#. translators: 1: date, 2: time
+#: functions.php:386
+msgid "%1$s at %2$s"
+msgstr "%1$s kell %2$s"
+
+#: functions.php:379
+msgid "Your comment is awaiting moderation."
+msgstr "Sinu kommentaar ootab modereerimist."
+
+#: functions.php:376
+msgid "%s <span class=\"says\">says:</span>"
+msgstr "%s <span class=\"says\">kirjutab:</span>"
+
+#: functions.php:280 loop-attachment.php:119 loop.php:116 loop.php:144
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Jätka lugemist <span class=\"meta-nav\">&rarr;</span>"
+
+#. translators: header image description
+#: functions.php:207
+msgid "Sunset"
+msgstr "Loojang"
+
+#. translators: header image description
+#: functions.php:201
+msgid "Path"
+msgstr "Rada"
+
+#. translators: header image description
+#: functions.php:195
+msgid "Inkwell"
+msgstr "Tindipott"
+
+#. translators: header image description
+#: functions.php:189
+msgid "Forest Floor"
+msgstr "Metsapinnas"
+
+#. translators: header image description
+#: functions.php:183
+msgid "Fern"
+msgstr "Sõnajalg"
+
+#. translators: header image description
+#: functions.php:177
+msgid "Concave"
+msgstr "Õõnsus"
+
+#. translators: header image description
+#: functions.php:171
+msgid "Cherry Blossoms"
+msgstr "Kirsiõied"
+
+#. translators: header image description
+#: functions.php:165
+msgid "Berries"
+msgstr "Marjad"
+
+#: functions.php:95
+msgid "Primary Navigation"
+msgstr "Põhiliikumised"
+
+#: footer.php:40
+msgid "Proudly powered by %s."
+msgstr "Kasutame %si"
+
+#: footer.php:40
+msgid "Semantic Personal Publishing Platform"
+msgstr "Semantiline avaldamisplatvorm"
+
+#: footer.php:40
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: comments.php:73
+msgid "Comments are closed."
+msgstr "Kommenteerimine on suletud"
+
+#: comments.php:43 comments.php:63
+msgid "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Uuemad kommentaarid <span class=\"meta-nav\">&rarr;</span>"
+
+#: comments.php:42 comments.php:62
+msgid "<span class=\"meta-nav\">&larr;</span> Older Comments"
+msgstr "<span class=\"meta-nav\">&larr;</span> Vanemad kommentaarid"
+
+#: comments.php:36
+msgid "One Response to %2$s"
+msgid_plural "%1$s Responses to %2$s"
+msgstr[0] "Üks kommentaar postitusele %2$s"
+msgstr[1] "%1$s kommentaari postitusele %2$s"
+
+#: comments.php:18
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr "See postitus on parooliga kaitstud. Kommentaaride lugemiseks sisesta parool."
+
+#: category.php:16
+msgid "Category Archives: %s"
+msgstr "Rubriigiarhiiv: %s"
+
+#: author.php:47 loop-single.php:46
+msgid "About %s"
+msgstr "%s: tutvustus"
+
+#: author.php:28
+msgid "Author Archives: %s"
+msgstr "Autoriarhiiv: %s"
+
+#: archive.php:40
+msgid "Blog Archives"
+msgstr "Arhiiv"
+
+#: archive.php:38
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: archive.php:38
+msgid "Yearly Archives: <span>%s</span>"
+msgstr "Arhiiv aastate lõikes: <span>%s</span>"
+
+#: archive.php:36
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: archive.php:36
+msgid "Monthly Archives: <span>%s</span>"
+msgstr "Arhiiv kuude lõikes: <span>%s</span>"
+
+#: archive.php:34
+msgid "Daily Archives: <span>%s</span>"
+msgstr "Arhiiv kuupäevade lõikes: <span>%s</span>"
+
+#: 404.php:18
+msgid "Apologies, but the page you requested could not be found. Perhaps searching will help."
+msgstr "Vabandust, aga otsitavat lehte ei leitud. Ehk aitab otsing."
+
+#: 404.php:16 loop.php:33
+msgid "Not Found"
+msgstr "Ei leitud"

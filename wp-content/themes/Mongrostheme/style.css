@@ -1,0 +1,16 @@
+/*
+Theme Name: mytheme
+Author:Clem
+Author URI: http://monsiteweb.com
+Description: Notre premier thème WordPress !
+*/
+
+body{
+
+  background-color: black;
+}
+h1{
+
+  color: green;
+
+}
